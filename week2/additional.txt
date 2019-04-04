@@ -1,0 +1,9 @@
+we can check all of the methods available
+dir(variable)
+
+this not only gives us all of the methods available but
+how to use them
+help(str)
+
+check a specific method
+help(str.lower)
